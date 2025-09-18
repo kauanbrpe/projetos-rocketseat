@@ -20,7 +20,7 @@ git clone https://github.com/kauanbrpe/projetos-rocketseat/tree/main/02%20-%20Pr
 ```
 - Acesse a pasta do projeto
 ```bash
-cd todo-list
+cd todo
 ```
 -  Instale as dependências
 ```bash
