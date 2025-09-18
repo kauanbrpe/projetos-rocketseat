@@ -16,7 +16,7 @@ Na trilha de estudos da ***Residência Tecnológica do Porto Digital*** em parce
 
 ## Como executar o projeto
 ```bash
-git clone https://github.com/seu-usuario/todo-list.git
+git clone https://github.com/kauanbrpe/projetos-rocketseat/tree/main/02%20-%20Primeiro%20projeto%20com%20Tooling
 ```
 - Acesse a pasta do projeto
 ```bash
