@@ -16,8 +16,8 @@ export default function UserNewForm() {
         const data = new FormData(formRef.current);
 
         const payload = {
-            id: data.get('id'),
-            name: data.get('name')
+            username: data.get("id"),
+            name: data.get("name")
         };
 
         await createUser(payload as User);
@@ -35,7 +35,8 @@ export default function UserNewForm() {
         <div>
             <button type="submit">
                 {userRequestStatus === 'saving' ? 'Criando...' : "Criar usuário"}
-                Criar usuário</button>
+            Criar usuário
+            </button>
         </div>
     </form>
 }
