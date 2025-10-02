@@ -19,7 +19,7 @@ git clone https://github.com/kauanbrpe/projetos-rocketseat.git
 ```
 - Acesse a pasta do projeto
 ```bash
-cd todo
+cd gallery-plus
 ```
 -  Instale as dependências
 ```bash
@@ -35,3 +35,4 @@ pnpm dev
  - Ao Centro Universitário Tiradentes, pela acolhida.
  - A Residência Tecnológica do Porto Digital, em nome de Bárbara pelo incentivo em estudar e me desafiar dentro da programação.
  - A plataforma Rocketseat, pela excelente trilha de Estudo.
+
